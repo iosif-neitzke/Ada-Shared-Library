@@ -1,0 +1,16 @@
+project Default is
+
+   for Source_Dirs use ("src");
+   for Object_Dir use "obj";
+   for Source_Files use ("lib1.adb", "lib1.ads");
+   for Library_Name use "logging";
+   for Library_Dir use "lib";
+   for Library_Ali_Dir use "libali";
+   for Library_Kind use "dynamic";
+   for Library_Version use "1.0.0";
+   for Library_Src_Dir use "libsrc/";
+   for Library_Interface use ("lib1");
+   for Library_Auto_Init use "False";
+
+end Default;
+
