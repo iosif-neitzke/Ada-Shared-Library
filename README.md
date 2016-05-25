@@ -8,3 +8,5 @@ http://www.adacore.com/adaanswers/gems/gem-110-ada-plug-ins-and-shared-libraries
 "Note that the use of shared libraries reduces the size of the final executable and can also reduce the memory footprint at execution time when the library is shared among several executables."
 
 https://stackoverflow.com/questions/26805533/how-to-create-an-ada-lib-a-and-link-to-c-updated
+
+https://stackoverflow.com/questions/25117653/gnat-gprbuild-how-to-build-a-dynamic-dll-and-link-with-a-static-c-library
